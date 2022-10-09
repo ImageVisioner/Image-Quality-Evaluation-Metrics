@@ -1,7 +1,7 @@
 # coding: utf-8
 '''
 
-author :chenhua.Liu
+author :Dr.Liu
 '''
 import numpy as np
 from skimage.measure import shannon_entropy
